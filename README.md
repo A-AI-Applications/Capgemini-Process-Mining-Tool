@@ -21,5 +21,5 @@ This tool is still in a beta phase and so is not yet fully optimised - it may ru
 
 ## Example
 <p align="center">
-![Alt text](utility/example.png.raw=true)
+<img width="1429" alt="example" src="https://user-images.githubusercontent.com/38509541/203417111-35f155e7-14e4-4b3d-b70c-46a9a6414e58.PNG">
 </p>
