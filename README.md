@@ -11,7 +11,7 @@ Common business processes leave digital footprints in enterprise systems. When u
 Using a process mining platform, you can upload all of this data - both historical and real-time - to fully understand a process.
 
 ## Usage
-Upload an event log and explore the activity map. An event log is a tabular dataset with grouped by cases and their associated activities and timestamps. Each row of the dataset corresponds to a case-activity. To work within the app, any event log must be a .csv file and have only the following three variables: 
+Upload an event log and explore the activity map. An event log is a tabular dataset grouped by cases and their associated activities and timestamps. Each row of the dataset corresponds to a case-activity. To work within the app, any event log must be a .csv file and have only the following three variables: 
 
 - **case_id**: the unique case indentifier
 - **activity_id**: the activities within each case
