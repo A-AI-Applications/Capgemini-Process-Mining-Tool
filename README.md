@@ -17,9 +17,9 @@ Upload an event log and explore the activity map. An event log is a tabular data
 - **activity_id**: the activities within each case
 - **timestamp**: the date and time of when the activity occurred in `YYYY-MM-DD HH:MM:SS` format
 
-This tool has not been fully optimised. It may run slower when using very large datasets, or when datasets contain a large variety of processes, compared to commercially available tools.
+This tool is still in a beta phase and so is not yet fully optimised - it may run slower when using very large datasets, or when datasets contain a large variety of processes, compared to commercially available tools.
 
 ## Example
 <p align="center">
-<img src="utility/example.PNG" width="800" />
+<img src="example.PNG" width="800" />
 </p>
