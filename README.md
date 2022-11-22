@@ -21,5 +21,5 @@ This tool is still in a beta phase and so is not yet fully optimised - it may ru
 
 ## Example
 <p align="center">
-<img src="utilit/example.PNG" width="800" />
+![Alt text](utility/example.png)
 </p>
